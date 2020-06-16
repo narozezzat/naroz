@@ -1,0 +1,11 @@
+<html>
+	<head>
+		<title>Html</title>
+	<body>
+		<h1>my html Notes</h1>
+		<p>this page is a collection of my awesome</p>
+		<h2>The Web</h2>
+		<p>The Web (or World Wide Web) is a collection of documents and other files </p>
+		<h3>What is Html?</h3>
+		<p>Html stands for Hypertext Markup Language. It is used define the structure or layout of a Web page </p>
+</html>
